@@ -1,0 +1,32 @@
+
+        body{ 
+
+         background-color: palevioletred;
+        	font-family: Impact, Charcoal, sans-serif;
+
+        	text-align: center;
+        	margin-top: 4%;
+       }   
+        
+         
+         a{
+         color: aqua;
+             
+           text-decoration: none;
+             
+           text-decoration-color: azure;          
+             
+            
+         }  
+         
+         
+         a:hover {
+           text-decoration: line-through;  
+             
+             
+         }
+         
+         
+         
+         
+    
