@@ -6,7 +6,34 @@
 
         	text-align: center;
         	margin-top: 4%;
-       }   
+
+  
+
+
+
+              }  
+
+
+
+
+h1 {font-family: Impact, Charcoal, sans-serif
+    color: white;
+    text-align: center;
+}
+
+.box {
+
+    font-size: 20px;
+     font-family: helve
+
+}
+
+
+
+
+
+
+ 
         
          
          a{
@@ -17,14 +44,15 @@
            text-decoration-color: azure;          
              
             
-         }  
+                 }  
+
          
          
          a:hover {
            text-decoration: line-through;  
              
              
-         }
+                }
          
          
          
