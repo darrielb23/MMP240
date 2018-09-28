@@ -2,29 +2,31 @@
         body{ 
 
             
-            color: green;
-            background-image: url(shore.jpeg) ;
+            color: yellow;
+            background-color: black;
 
-             background-size: 10%;
+            background-size: CENTER;
             
-
-            
-
-
-
-
-
-        	font-family:'Ruslan Display', cursive;
+            font-family:'Ruslan Display', cursive;
 
         	text-align: center;
         	margin-top: 6%;
-            
-            
-            
-       }   
+            }   
         
          
-         
-             
-             
     
+            
+
+         h1 {
+           color: purple;
+           text-align: center;
+           font-size: 100px;
+            }
+
+
+        p {
+
+           font-family: verdana;
+           font-size: 40px;
+     
+           }   
