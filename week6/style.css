@@ -16,30 +16,34 @@ background-position: top;
 background-size: cover;
     margin-top: 5px;
     text-align: center;
+font-family: 'Concert One', cursive;
 
 }
 
 h1 {
     border: 2px solid #ff0602;
-border
 }
 
-/*
+
 h2 {
-    background-color: #ff0602;
+font-size: 20px;
+height: 4px;
 }
-*/
 
+
+p {
+font-size: 18px;
+background-color: #ff0000;
+}
 
 aside {
-    height: 250px;
-    width: 90%;
+    height: 450px;
+    width: 40%;
     margin: auto;
     float: center;
 /*    border: 8px solid black;*/
 
 }
-
 
 footer {
     height: 150px;
