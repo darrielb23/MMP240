@@ -7,7 +7,7 @@ header {
 
 
 body {
-background-color: 	#CD853F;
+background-color:#AD7E52;
 
     background-image: url("dics.jpg");
 background-position: top;
@@ -18,12 +18,14 @@ background-size: cover;
     margin-top: 5px;
     text-align: center;
 font-family: 'Concert One', cursive;
+height: 1000px;
+
 
 }
 
 h1 {
     border: 2px solid #ff0602;
-border
+
 }
 
 h2 {
@@ -34,8 +36,9 @@ p {
 font-size: 18px;
 }
 
+
 aside {
-    height: 250px;
+    height: 200px;
     width: 40%;
     margin: auto;
     float: left;
@@ -44,17 +47,19 @@ aside {
 }
 
 article {
-height: 400px;;
-width: 70%;
+height: 1100px;;
+width: 40%;
+float: right;
+margin: auto;
 
 }
-
 
 footer {
-    height: 150px;
+    height: 40px;
     clear: both;
+font-size: 18px;
+background-color: #ff0000;
 }
-
 
 
 * {
@@ -62,8 +67,20 @@ footer {
     padding: 4;
 }
 
+aside3{
+
+height: 100px;
+width:auto;
+float: none;
+}
 
 
+aside2{
+
+height: 100px;
+width:auto;
+float: none;
+}
 
 
 nav ul {
