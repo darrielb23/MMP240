@@ -7,12 +7,12 @@ header {
 
 
 body {
-    background-color: #AD7E52;
-    background-position: top;
-    background-repeat: round;
+    background-image: url("max12.jpeg");
+    background-position: center;
+    background-repeat: repeat;
     margin: auto;
     width: 65%;
-    background-size: cover;
+    background-size: auto;
     margin-top: 5px;
     text-align: center;
     font-family: 'Concert One', cursive;
@@ -22,15 +22,17 @@ body {
 }
 
 h1 {
-    border: 2px solid #ff0602;
+    color: #ff0000;
+    border: 2px solid #ff0000;
 
 }
 
 h2 {
-    background-color: #ff0602;
+    background-color: #ff0000;
 }
 
 p {
+    color: #ff0000;
     font-size: 18px;
 }
 
@@ -58,6 +60,7 @@ footer {
     clear: both;
     font-size: 18px;
     background-color: #ff0000;
+    color: black;
 }
 
 
