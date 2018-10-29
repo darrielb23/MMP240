@@ -38,7 +38,7 @@ p {
 
 
 aside {
-    height: 200px;
+    height: 200pzx;
     width: 40%;
     margin: auto;
     float: left;
@@ -47,7 +47,7 @@ aside {
 }
 
 article {
-    height: 2350px;
+    height: 2000px;
     ;
     width: 40%;
     float: right;
