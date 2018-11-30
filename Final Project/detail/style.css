@@ -7,7 +7,7 @@ header {
 
 
 body {
-
+    font-family: 'Oregano', cursive;
     background-color: blanchedalmond;
     margin: auto;
     width: 65%;
@@ -15,16 +15,16 @@ body {
 }
 
 h1 {
-    border: 2px solid yellow;
+    border: 2px solid #da9432;
   text-align: center;
 }
 
 h2 {
-    border: 3px solid cyan;
+    border: 3px solid #da9432;
 }
 
 p {
-    background-color: cyan;
+    background-color: #da9432;
 }
 
 
