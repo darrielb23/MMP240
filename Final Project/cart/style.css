@@ -6,7 +6,7 @@ header {
 
 
 body {
-
+    font-family: 'Oregano', cursive;
     background-color: blanchedalmond;
     margin: auto;
     width: 65%;
@@ -15,7 +15,7 @@ body {
 
 h1 {
     border: 2px solid yellow;
-  text-align: center;
+    text-align: center;
 }
 
 h2 {

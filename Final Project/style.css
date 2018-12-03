@@ -7,8 +7,8 @@ header {
 
 
 body {
-
-    background-color: blanchedalmond;
+    font-family: 'Oregano', cursive;
+    background-color: #b1c1c0; 
     margin: auto;
     width: 65%;
     margin-top: 5px;
@@ -16,11 +16,12 @@ body {
 }
 
 h1 {
-    border: 2px solid yellow;
+    color: #b8266d;
+    border: 2px solid orange;
 }
 
 h2 {
-    background-color: yellow;
+    background-color: orange;
 }
 
 
